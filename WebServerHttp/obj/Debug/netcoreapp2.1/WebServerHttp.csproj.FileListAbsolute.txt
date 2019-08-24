@@ -1,0 +1,11 @@
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\bin\Debug\netcoreapp2.1\WebServerHttp.deps.json
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\bin\Debug\netcoreapp2.1\WebServerHttp.runtimeconfig.json
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\bin\Debug\netcoreapp2.1\WebServerHttp.runtimeconfig.dev.json
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\bin\Debug\netcoreapp2.1\WebServerHttp.dll
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\bin\Debug\netcoreapp2.1\WebServerHttp.pdb
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\obj\Debug\netcoreapp2.1\WebServerHttp.csprojAssemblyReference.cache
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\obj\Debug\netcoreapp2.1\WebServerHttp.csproj.CoreCompileInputs.cache
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\obj\Debug\netcoreapp2.1\WebServerHttp.AssemblyInfoInputs.cache
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\obj\Debug\netcoreapp2.1\WebServerHttp.AssemblyInfo.cs
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\obj\Debug\netcoreapp2.1\WebServerHttp.dll
+C:\Users\smishra\source\repos\WebServerHttp\WebServerHttp\obj\Debug\netcoreapp2.1\WebServerHttp.pdb
